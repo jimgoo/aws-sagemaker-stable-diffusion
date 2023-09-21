@@ -280,3 +280,8 @@ terraform.rc
 /sagemaker/output/
 /sagemaker/endpoint-name.txt
 /terraform/*.txt
+
+# models
+stable-diffusion-v1-4/
+stable-diffusion-xl-base-1.0/
+
